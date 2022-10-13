@@ -1,4 +1,4 @@
 #!/bin/bash
-find . d! .path . -print | wc -l
+find . d ! .path . -print | wc -l
 
 
