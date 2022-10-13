@@ -1,3 +1,4 @@
 #!/bin/bash
-ls -t | head
+find . d! .path . -print | wc -l
+
 
